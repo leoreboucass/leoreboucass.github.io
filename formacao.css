@@ -121,6 +121,11 @@
     margin-bottom: 20px;
 }
 
+.formacao-extra li a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .formacao-extra span {
     color: #8f8f8f;
 }
